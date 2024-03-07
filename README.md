@@ -16,7 +16,7 @@ To begin learning DVC, follow these steps:
 
 2. **Initialization**: Initialize DVC in your project directory by running `dvc init`.
 
-3. **Version Control Data**: Add your datasets or other large files to DVC using `dvc add`.
+3. **Version Control Data**: Add your datasets or other large files to DVC using `dvc add <filename>`.
 
 4. **Track Experiments**: Use DVC to track experiments, dependencies, and metrics by integrating it with tools like MLflow or TensorBoard.
 
